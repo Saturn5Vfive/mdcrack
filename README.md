@@ -1,6 +1,6 @@
 # MDCrack
 
-A tool used for cracking md5 hashes using a passwords list
+A not so good tool used for cracking md5 hashes using a passwords list
 
 Supports multithreading and cracking multiple hashes at once
 
